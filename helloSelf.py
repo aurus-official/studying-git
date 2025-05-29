@@ -8,3 +8,5 @@ class Me:
 
 me = Me("Doraemon")
 me.sayHello()
+
+# I am trying to create a merge conflict!
